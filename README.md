@@ -8,14 +8,14 @@ This project demonstrates how to use Pentaho Data Integration (PDI) to perform E
 * Verify the source data paths before running the transformations.
 * Note: This project does not include configurations for proper Excel output or error notification emails.
 
-## Pre Requirement
+## Prerequest
 - Pentaho(PDI-ce)
 - AWS CLI(token use)
 - AWS S3
 - Postgres SQL(pgAdmin)
 
 
-## Screnshot  
+## Screenshot  
 #### AWS S3 Bucket(Hadoop file)
 ![image](https://github.com/user-attachments/assets/6704f1c6-5968-4cdf-9b4b-d8b5d503e575)
 
