@@ -19,7 +19,7 @@ This project demonstrates how to use Pentaho Data Integration (PDI) to perform E
 #### AWS S3 Bucket(Hadoop file)
 ![image](https://github.com/user-attachments/assets/6704f1c6-5968-4cdf-9b4b-d8b5d503e575)
 
-#### Jon flow
+#### Job flow
 ![image](https://github.com/user-attachments/assets/c0d7bb37-da56-41d0-858b-bcd3b854c01b)
 
 #### Transformation  flow
